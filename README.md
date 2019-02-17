@@ -8,11 +8,13 @@ Using the Quandl and Poloniex Exchange API to pull a few of the largest cryptocu
 A look at Closing Price dating back to 2015
 ![alt text](Crypto_Close_Subplot.png)
 
-
+Candlestick Chart with moving average and Bollinger Bands
 ![alt text](Candlestick_BTC.png)
 
+Overlapping comparison of trend in closing price
 ![alt text](Crypto_Log_Prices.png)
 
+Correlation between asset closing price
 ![alt text](Heatmap_Correlation.png)
 
 ## Linear Regression
