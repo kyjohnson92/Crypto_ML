@@ -31,3 +31,5 @@ The first attempt at predicting future price was with a linear regression model 
 ![alt text](images/Ethereum_Forecast_zoom.png)
 
 ## LSTM
+
+![alt text](images/LTSM.png)
