@@ -18,4 +18,16 @@ Correlation between asset closing price
 ![alt text](Heatmap_Correlation.png)
 
 ## Linear Regression
+The first attempt at predicting future price was with a linear regression model taking just the historic closing price data as the input.
+
+![alt text](images/Eth_Close.png)
+
+![alt text](images/Eth_HL_Perc_.png)
+
+![alt text](images/Eth_OC_Perc.png)
+
+![alt text](images/Ethereum_Forecast.png)
+
+![alt text](images/Ethereum_Forecast_zoom.png)
+
 ## LSTM
