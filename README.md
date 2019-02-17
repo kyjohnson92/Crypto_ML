@@ -26,10 +26,37 @@ The first attempt at predicting future price was with a linear regression model 
 
 ![alt text](images/Eth_OC_Perc.png)
 
+Using the SciKitLearn Library to train the model and create a forecast out of 5 days, with a Linear Accuracy of 0.812
+
 ![alt text](images/Ethereum_Forecast.png)
 
 ![alt text](images/Ethereum_Forecast_zoom.png)
 
+Price for last 5 days
+
+|date      |     price |
+|----------|----------:|
+|2019-02-13| 122.042960|
+|2019-02-14| 120.350000|
+|2019-02-15| 121.424776|
+|2019-02-16| 122.843760|
+|2019-02-17| 129.395100|
+
+Price for next 5 days
+
+|date      |     price |
+|----------|----------:|
+|2019-02-17| 119.234912|
+|2019-02-18| 118.977214|
+|2019-02-19| 113.845250|
+|2019-02-20| 117.969306|
+|2019-02-21| 110.417734|
+
+
 ## LSTM
+The final attempt at forecasting prices used a Long short-term memory(LTSM) neural network with SciKitLearn to normalize and process the data and the Keras library to develop the model
+
 
 ![alt text](images/LTSM.png)
+
+Ethereum price for tomorrow:  [[117.84889]]
